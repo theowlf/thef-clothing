@@ -6,6 +6,7 @@ import "./signin-signup-pages.scss";
 const SignInandSignUpPage = () => (
   <div className="sign-in-and-sign-up">
     <SignIn />
+    <div className="line-trough"></div>
     <SignUp />
   </div>
 );
