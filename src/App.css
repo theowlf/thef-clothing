@@ -16,3 +16,7 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.sign-out-b {
+  font-weight: bold;
+}
